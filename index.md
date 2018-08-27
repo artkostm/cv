@@ -26,7 +26,7 @@ Web framework for fast web app development.
 - **2017-2018** - EPAM – Analyst tools team 
 
 Implementation of web tools for the analysts; moving from .Net (aspx/classic asp) to Java + Angular 4/5.
-**Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit_
+**Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql_
 - **Jan - May 2018** - Self education
 
 An application to agregate different events in Minsk and for visiting them together.
