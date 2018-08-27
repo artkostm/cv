@@ -15,11 +15,11 @@
 
 Cоздание и поддержка набора сервисов для автоматического определения фродулент транзакций.
 **Инструменты:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
-- **2016-2017** - self aducation
+- **2016-2017** - self education
 
 Scala on android (free monad + redax on android), андройд приложение с дополненой реальностью для расписания общественного транспорта (Kotlin).
 **Инструменты:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
-- **2016-2017** - self aducation
+- **2016-2017** - self education
 
 Bеб-фреймворк для быстрого создания веб приложений.
 **Инструменты:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
