@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Образование
 
-You can use the [editor on GitHub](https://github.com/artkostm/cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- БГУИР – ИЭФ - Информационные системы и технологии (2011 – 2016 гг. бакалавр)
+- БГУИР – ФКП - Инженерная психология и эргономика (2016 – 2018 гг. магистр)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Опыт работы
 
-### Markdown
+- **2014 – 2015** EPAM – Data preparation to retrain fraud models
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+С помощью указанных ниже продуктов создавали MapReduce джобы и hive-скрипты для подготовки данных для дейта сайнтистов, чтобы они могли тренировать разрабатываемые модели.
+**Инструменты:** _Hadoop, Hive, Gradle, AngularJs_
+- **2015-2017** EPAM – Fraud team
 
-```markdown
-Syntax highlighted code block
+Cоздание и поддержка набора сервисов для автоматического определения фродулент транзакций.
+**Инструменты:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
+- **2016-2017** - self aducation
 
-# Header 1
-## Header 2
-### Header 3
+Scala on android (free monad + redax on android), андройд приложение с дополненой реальностью для расписания общественного транспорта (Kotlin).
+**Инструменты:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
+- **2016-2017** - self aducation
 
-- Bulleted
-- List
+Bеб-фреймворк для быстрого создания веб приложений.
+**Инструменты:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
+- **2017-2018** - EPAM – Analyst tools team 
 
-1. Numbered
-2. List
+Cоздание веб-инструментов для аналитиков, замена .Net (aspx/classic asp) стека на Java (бэкэнд) + Angular 4/5.
+**Инструменты:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit_
+- **январь - май 2018** - self education
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artkostm/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Приложение для отображения различнх эвентов в городе и для совместного их посещения.
+**Инструменты:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
