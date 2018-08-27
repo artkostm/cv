@@ -1,4 +1,4 @@
-[RU]() [EN]()
+[RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
 
 ## Образование
 
