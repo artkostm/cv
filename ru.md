@@ -1,7 +1,7 @@
 #### [RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
 
 ## Артем Чуйко
->06.08.1994
+>08.06.1994
 
 >Belarus, Minsk
 
