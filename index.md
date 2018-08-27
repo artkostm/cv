@@ -1,33 +1,33 @@
 [RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
 
-## Образование
+## Education
 
-- БГУИР – ИЭФ - Информационные системы и технологии (2011 – 2016 гг. бакалавр)
-- БГУИР – ФКП - Инженерная психология и эргономика (2016 – 2018 гг. магистр)
+- BSUIR – Faculty of Engineering and Economics - Information systems and technologies (2011 – 2016, Bachelor)
+- BSUIR – Faculty of Computer-Aided Design - Engineering Psychology and Ergonomics (2016 – 2018, MTech)
 
-## Опыт работы
+## Expirience
 
 - **2014 – 2015** EPAM – Data preparation to retrain fraud models
 
-С помощью указанных ниже продуктов создавали MapReduce джобы и hive-скрипты для подготовки данных для дейта сайнтистов, чтобы они могли тренировать разрабатываемые модели.
-**Инструменты:** _Hadoop, Hive, Gradle, AngularJs_
+Using the tools below, we developed MapReduce jobs and hive-scripts for data preparation, so data scientists can retrain thier fraud models.
+**Tools:** _Hadoop, Hive, Gradle, AngularJs_
 - **2015-2017** EPAM – Fraud team
 
-Cоздание и поддержка набора сервисов для автоматического определения фродулент транзакций.
-**Инструменты:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
-- **2016-2017** - self aducation
+Implementation and support of sets of services to auto detect fraudulent transactions.
+**Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
+- **2016-2017** - Self education
 
-Scala on android (free monad + redax on android), андройд приложение с дополненой реальностью для расписания общественного транспорта (Kotlin).
-**Инструменты:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
-- **2016-2017** - self aducation
+Scala on android (free monad + redax on android), an android application with augmented reality support for the public transport schedule (Kotlin).
+**Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
+- **2016-2017** - Self education
 
-Bеб-фреймворк для быстрого создания веб приложений.
-**Инструменты:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
+Web framework for fast web app development.
+**Tools:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
 - **2017-2018** - EPAM – Analyst tools team 
 
-Cоздание веб-инструментов для аналитиков, замена .Net (aspx/classic asp) стека на Java (бэкэнд) + Angular 4/5.
-**Инструменты:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit_
-- **январь - май 2018** - self education
+Implementation of web tools for the analysts; moving from .Net (aspx/classic asp) to Java + Angular 4/5.
+**Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit_
+- **Jan - May 2018** - Self education
 
-Приложение для отображения различнх эвентов в городе и для совместного их посещения.
-**Инструменты:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
+An application to agregate different events in Minsk and for visiting them together.
+**Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
