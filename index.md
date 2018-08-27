@@ -30,7 +30,7 @@ Implementation and support of sets of services to auto detect fraudulent transac
 **Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
 - **2016-2017** - Self education
 
-Scala on android (free monad + redax on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
+Scala on android (free monad + redux on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
 **Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
 - **2016-2017** - Self education
 
