@@ -1,4 +1,17 @@
-[RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
+##### [RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
+
+## Artsiom Chuiko
+>06.08.1994
+
+>Belarus, Minsk
+
+>https://github.com/artkostm
+
+>artkostm@gmail.com
+
+>English: Intermediate
+
+
 
 ## Education
 
