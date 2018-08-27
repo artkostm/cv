@@ -27,7 +27,7 @@ Cоздание и поддержка набора сервисов для ав�
 **Инструменты:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
 - **2016-2017** - self education
 
-Scala on android (free monad + redax on android), андройд приложение с дополненой реальностью для расписания общественного транспорта (Kotlin).
+Scala on android (free monad + redux on android), андройд приложение с дополненой реальностью для расписания общественного транспорта (Kotlin).
 **Инструменты:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
 - **2016-2017** - self education
 
