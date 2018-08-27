@@ -29,5 +29,5 @@ Implementation of web tools for the analysts; moving from .Net (aspx/classic asp
 **Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql_
 - **Jan - May 2018** - Self education
 
-An application to agregate different events in Minsk and for visiting them together.
+An application to aggregate different events in Minsk and for visiting them together.
 **Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
