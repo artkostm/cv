@@ -1,4 +1,14 @@
-[RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
+#### [RU](https://artkostm.github.io/cv/ru) [EN](https://artkostm.github.io/cv/)
+
+## Артем Чуйко
+>06.08.1994
+
+>Belarus, Minsk
+
+>[https://github.com/artkostm](https://github.com/artkostm)
+
+>[artkostm@gmail.com](mailto:artkostm@gmail.com)
+
 
 ## Образование
 
