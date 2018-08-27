@@ -9,7 +9,7 @@
 
 - **2014 – 2015** EPAM – Data preparation to retrain fraud models
 
-Using the tools below, we developed MapReduce jobs and hive-scripts for data preparation, so data scientists can retrain thier fraud models.
+Using the tools below, we developed MapReduce jobs and hive-scripts for data preparation, so data scientists can retrain their fraud models.
 **Tools:** _Hadoop, Hive, Gradle, AngularJs_
 - **2015-2017** EPAM – Fraud team
 
