@@ -44,7 +44,9 @@ I pay special attention to self-education. Here are some of my personal projects
 ### **Sep, 2014 – Feb, 2015** EPAM – Data preparation to retrain fraud models
 
 **Project Roles**: Developer, Tester, Ops
+
 Using the tools below, we developed MapReduce jobs and hive-scripts for data preparation, so data scientists can retrain their fraud models.
+
 **Partisipation:**
   * Writing hadoop jobs to prepare some data for model retraining;
   * Writing functional tests for the mr jobs and hive scripts;
@@ -55,7 +57,9 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
 ### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
 
 **Project Roles**: Developer
+
 Implementation and support of sets of services to auto detect fraudulent transactions.
+
 **Partisipation:**
 - Performing integration with an external and internal web services
 - Developing applications for data processing using hive and hadooop java APIs
@@ -80,7 +84,9 @@ Web framework for fast web app development.
 ### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
 
 **Project Roles**: Developer
+
 Implementation of the auth service (REST) with the admin ui, disputes/debit memos autoimport
+
 **Partisipation:**
 - Writing services to manage user roles/permissions, 
 - Working on services to autoimport disputes from different banks
@@ -91,7 +97,9 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 ### **Apr, 2017 - Oct, 2018** - EPAM – Analyst tools team 
 
 **Project Roles**: Developer
+
 Implementation of web tools for the analysts, new case management platform
+
 **Partisipation:**
 - Implementation of web tools for the analysts
 - Working on new Case Management platform
@@ -103,7 +111,6 @@ Implementation of web tools for the analysts, new case management platform
 
 ### **Jan - May 2018** - Self education
 
-**Project Roles**: Developer
 An application to aggregate different events in Minsk and for visiting them together.
 
 **Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
