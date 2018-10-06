@@ -41,7 +41,7 @@ I pay special attention to self-education. Here are some of my personal projects
 
 ## Expirience
 
-#### **Sep, 2014 – Feb, 2015** EPAM – Data preparation to retrain fraud models
+### **Sep, 2014 – Feb, 2015** EPAM – Data preparation to retrain fraud models
 
 **Project Roles**: Developer, Tester, Ops
 Using the tools below, we developed MapReduce jobs and hive-scripts for data preparation, so data scientists can retrain their fraud models.
@@ -51,7 +51,7 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
   * Working on func tests design;
 **Tools:** _Hadoop, Hive, Gradle, JUnit, Jsch, AngularJs_
 
-#### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
+### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
 
 **Project Roles**: Developer
 Implementation and support of sets of services to auto detect fraudulent transactions.
@@ -63,17 +63,17 @@ Implementation and support of sets of services to auto detect fraudulent transac
 - Participating in app design activities
 **Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
 
-#### **2016-2017** - Self education
+### **2016-2017** - Self education
 
 Scala on android (free monad + redux on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
 **Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
 
-#### **2016-2017** - Self education
+### **2016-2017** - Self education
 
 Web framework for fast web app development.
 **Tools:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
 
-#### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
+### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
 
 **Project Roles**: Developer
 Implementation of the auth service (REST) with the admin ui, disputes/debit memos autoimport
@@ -83,7 +83,7 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 - Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation
 **Tools:** _Spring, Mybatis, JQuery, Gradle, RetsAssured, JUnit, Mockito, Selenium, Ms Sql_
 
-#### **Apr, 2017 - Oct, 2018** - EPAM – Fraud tools team 
+### **Apr, 2017 - Oct, 2018** - EPAM – Fraud tools team 
 
 **Project Roles**: Developer
 Implementation of web tools for the analysts, new case management platform
@@ -95,7 +95,7 @@ Implementation of web tools for the analysts, new case management platform
 - Working directly with customer developers from India during the last few months
 **Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql, Karma, QueryDsl_
 
-#### **Jan - May 2018** - Self education
+### **Jan - May 2018** - Self education
 
 **Project Roles**: Developer
 An application to aggregate different events in Minsk and for visiting them together.
