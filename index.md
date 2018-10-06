@@ -41,27 +41,45 @@ I pay special attention to self-education. Here are some of my personal projects
 
 ## Expirience
 
-- **2014 – 2015** EPAM – Data preparation to retrain fraud models
+#### **Sep, 2014 – Feb, 2015** EPAM – Data preparation to retrain fraud models
 
+**Project Roles**: Developer, Tester, Ops
 Using the tools below, we developed MapReduce jobs and hive-scripts for data preparation, so data scientists can retrain their fraud models.
-**Tools:** _Hadoop, Hive, Gradle, AngularJs_
-- **2015-2017** EPAM – Fraud team
+**Partisipation:**
+  * Writing hadoop jobs to prepare some data for model retraining;
+  * Writing functional tests for the mr jobs and hive scripts;
+  * Working on func tests design;
 
+**Tools:** _Hadoop, Hive, Gradle, JUnit, Jsch, AngularJs_
+
+#### **2015-2017** EPAM – Fraud team
+
+**Project Roles**: Developer
 Implementation and support of sets of services to auto detect fraudulent transactions.
+**Partisipation:**
+- Performing integration with an external and internal web services
+- Developing applications for data processing using hive and hadooop java APIs
+- Supporting code base and monitoring environment (example: Splunk, AppDynamics)
+- Performing manual functional testing and dev unit testing
+- Participating in app design activities
 **Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
-- **2016-2017** - Self education
+
+#### **2016-2017** - Self education
 
 Scala on android (free monad + redux on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
 **Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
-- **2016-2017** - Self education
+
+#### **2016-2017** - Self education
 
 Web framework for fast web app development.
 **Tools:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
-- **2017-2018** - EPAM – Analyst tools team 
+
+#### **2017-2018** - EPAM – Analyst tools team 
 
 Implementation of web tools for the analysts; moving from .Net (aspx/classic asp) to Java + Angular 4/5.
 **Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql_
-- **Jan - May 2018** - Self education
+
+#### **Jan - May 2018** - Self education
 
 An application to aggregate different events in Minsk and for visiting them together.
 **Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
