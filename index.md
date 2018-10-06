@@ -83,7 +83,7 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 - Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation
 **Tools:** _Spring, Mybatis, JQuery, Gradle, RetsAssured, JUnit, Mockito, Selenium, Ms Sql_
 
-### **Apr, 2017 - Oct, 2018** - EPAM – Fraud tools team 
+### **Apr, 2017 - Oct, 2018** - EPAM – Analyst tools team 
 
 **Project Roles**: Developer
 Implementation of web tools for the analysts, new case management platform
