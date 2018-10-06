@@ -11,7 +11,21 @@
 
 >English: Intermediate
 
+I'm a developer with more than 4 years of well-rounded experience in backend development, object-oriented design and microservices architecture. My skills include different fields of software engineering: applications, web, system development. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
+Skill highlights:
+- Performance and scalability optimization
+- Strong decision maker
+- Fluent in Java, Scala, Kotlin, Javascript, C#, Phyton
+- Agile/Scrum methodology
+- API design
+- Knowledge of SQL Server, Mongo DB, Rabbit
 
+Outside of work, I have keen interest in functional programming. During my free time, I love to play outdoor games, read books and blogs, try new thechnologies and features.
+I pay special attention to self-education. Here are some of my personal projects:
+- Scala on android (free monad + redux). Tools: Macroid, Gradle, FreeS, Diode
+- An android application with augmented reality support for the public transport schedule (Kotlin). Tools: Gradle, Anko, ObjectBox, Rx
+- Web framework for the fast web app development. Tools: Netty, Akka (Java), Camel, Gradle, Level DB
+- An application to aggregate different events in Minsk and for visiting them together (REST api +  android client app). Tools: Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka (Scala), Http4s, Doobie, Anko, Appolo, Gradle
 
 ## Education
 
