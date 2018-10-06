@@ -49,10 +49,9 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
   * Writing hadoop jobs to prepare some data for model retraining;
   * Writing functional tests for the mr jobs and hive scripts;
   * Working on func tests design;
-
 **Tools:** _Hadoop, Hive, Gradle, JUnit, Jsch, AngularJs_
 
-#### **2015-2017** EPAM – Fraud team
+#### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
 
 **Project Roles**: Developer
 Implementation and support of sets of services to auto detect fraudulent transactions.
@@ -74,12 +73,31 @@ Scala on android (free monad + redux on android), an android application with au
 Web framework for fast web app development.
 **Tools:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
 
-#### **2017-2018** - EPAM – Analyst tools team 
+#### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
 
-Implementation of web tools for the analysts; moving from .Net (aspx/classic asp) to Java + Angular 4/5.
-**Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql_
+**Project Roles**: Developer
+Implementation of the auth service (REST) with the admin ui, disputes/debit memos autoimport
+**Partisipation:**
+- Writing services to manage user roles/permissions, 
+- Working on services to autoimport disputes from different banks
+- Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation
+**Tools:** _Spring, Mybatis, JQuery, Gradle, RetsAssured, JUnit, Mockito, Selenium, Ms Sql_
+
+#### **Apr, 2017 - Oct, 2018** - EPAM – Fraud tools team 
+
+**Project Roles**: Developer
+Implementation of web tools for the analysts, new case management platform
+**Partisipation:**
+- Implementation of web tools for the analysts
+- Working on new Case Management platform
+- Moving from .Net (aspx/classic asp) to Java + Angular 4
+- Participating in onboarding of new members
+- Working directly with customer developers from India during the last few months
+**Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql, Karma, QueryDsl_
 
 #### **Jan - May 2018** - Self education
 
+**Project Roles**: Developer
 An application to aggregate different events in Minsk and for visiting them together.
+
 **Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
