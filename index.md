@@ -49,6 +49,7 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
   * Writing hadoop jobs to prepare some data for model retraining;
   * Writing functional tests for the mr jobs and hive scripts;
   * Working on func tests design;
+  
 **Tools:** _Hadoop, Hive, Gradle, JUnit, Jsch, AngularJs_
 
 ### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
@@ -61,16 +62,19 @@ Implementation and support of sets of services to auto detect fraudulent transac
 - Supporting code base and monitoring environment (example: Splunk, AppDynamics)
 - Performing manual functional testing and dev unit testing
 - Participating in app design activities
+
 **Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
 
 ### **2016-2017** - Self education
 
 Scala on android (free monad + redux on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
+
 **Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
 
 ### **2016-2017** - Self education
 
 Web framework for fast web app development.
+
 **Tools:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
 
 ### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
@@ -81,6 +85,7 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 - Writing services to manage user roles/permissions, 
 - Working on services to autoimport disputes from different banks
 - Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation
+
 **Tools:** _Spring, Mybatis, JQuery, Gradle, RetsAssured, JUnit, Mockito, Selenium, Ms Sql_
 
 ### **Apr, 2017 - Oct, 2018** - EPAM – Analyst tools team 
@@ -93,6 +98,7 @@ Implementation of web tools for the analysts, new case management platform
 - Moving from .Net (aspx/classic asp) to Java + Angular 4
 - Participating in onboarding of new members
 - Working directly with customer developers from India during the last few months
+
 **Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql, Karma, QueryDsl_
 
 ### **Jan - May 2018** - Self education
