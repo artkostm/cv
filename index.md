@@ -22,7 +22,7 @@ Skill highlights:
 - Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit
 
 Responsibilities:
-- Implement distributed systems and web apps;
+- Implement distributed systems, web apps, and data pipelines (etl, streaming);
 - Investigate, troubleshoot and solve business issues;
 - Onboard and mentor new project members;
 - Code review, code refactoring, improve test coverage.
@@ -114,3 +114,27 @@ Implementation of web tools for the analysts, new case management platform
 An application to aggregate different events in Minsk and for visiting them together.
 
 **Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
+
+### **Oct, 2018 - Jan, 2019** - EPAM – Big Data Team 
+
+**Project Roles**: Developer
+
+Implementation of "discounts on the fly" with more than 1Tb data in 1 hour, spark structured streaming.
+
+**Partisipation:**
+- Implementation, spark/kafka tuning, troubleshooting
+
+**Tools:** _Spark, Kafka, Scala, Sbt, S3, HDFS, Jenkins, Qubole_
+
+### **Jan - Jul, 2019** - EPAM – Big Data Team 
+
+**Project Roles**: Developer
+
+The project re-thought how our customer allocates inventory to its stores. By exploring algorithmic techniques, we developed demand forecasting algorithms, and applyed business rules to those forecasts to deliver improved store-level allocations that consider sales forecasts and regional effects + ecommerce allocation optimization.
+
+**Partisipation:**
+- Implementation of data pipelines
+- Data quality checks
+- Cloud infrastructure
+
+**Tools:** _Airflow, GCP, Hive, Terraform, Python, Pyspark, Pandas_
