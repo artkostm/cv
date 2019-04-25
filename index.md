@@ -19,7 +19,7 @@ Skill highlights:
 - Fluent in Java, Scala, Kotlin, Javascript, C#, Phyton
 - Agile/Scrum methodology
 - API design
-- Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit
+- Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit, Kafka, Cassandra, Hadoop
 
 Responsibilities:
 - Implement distributed systems, web apps, and data pipelines (etl, streaming);
@@ -65,9 +65,9 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
 Implementation and support of sets of services to auto detect fraudulent transactions.
 
 **Partisipation:**
-- Performing integration with an external and internal web services
+- Performing integration with external and internal web services
 - Developing applications for data processing using hive and hadooop java APIs
-- Supporting code base and monitoring environment (example: Splunk, AppDynamics)
+- Supporting code base and monitoring environment (for example, Splunk, AppDynamics)
 - Performing manual functional testing and dev unit testing
 - Participating in app design activities
 
@@ -114,7 +114,7 @@ Implementation of web tools for the analysts, new case management platform
 
 **Partisipation:**
 - Implementation of web tools for the analysts
-- Working on new Case Management platform
+- Working on the new Case Management platform
 - Moving from .Net (aspx/classic asp) to Java + Angular 4
 - Participating in onboarding of new members
 - Working directly with customer developers from India during the last few months
