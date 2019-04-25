@@ -41,6 +41,8 @@ I pay special attention to self-education. Here are some of my personal projects
 
 ## Expirience
 
+---
+
 ### **Sep, 2014 – Feb, 2015** EPAM – Data preparation to retrain fraud models
 
 **Project Roles**: Developer, Tester, Ops
@@ -53,6 +55,8 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
   * Working on func tests design;
   
 **Tools:** _Hadoop, Hive, Gradle, JUnit, Jsch, AngularJs_
+
+---
 
 ### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
 
@@ -69,17 +73,23 @@ Implementation and support of sets of services to auto detect fraudulent transac
 
 **Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
 
+---
+
 ### **2016-2017** - Self education
 
 Scala on android (free monad + redux on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
 
 **Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
 
+---
+
 ### **2016-2017** - Self education
 
 Web framework for fast web app development.
 
 **Tools:** _Netty, Akka (Java/Scala), Camel, Gradle, Level DB_
+
+---
 
 ### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
 
@@ -93,6 +103,8 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 - Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation
 
 **Tools:** _Spring, Mybatis, JQuery, Gradle, RetsAssured, JUnit, Mockito, Selenium, Ms Sql_
+
+---
 
 ### **Apr, 2017 - Oct, 2018** - EPAM – Analyst tools team 
 
@@ -109,11 +121,15 @@ Implementation of web tools for the analysts, new case management platform
 
 **Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql, Karma, QueryDsl_
 
+---
+
 ### **Jan - May 2018** - Self education
 
 An application to aggregate different events in Minsk and for visiting them together.
 
 **Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
+
+---
 
 ### **Oct, 2018 - Jan, 2019** - EPAM – Big Data Team 
 
@@ -125,6 +141,8 @@ Implementation of "discounts on the fly" with more than 1Tb data in 1 hour, spar
 - Implementation, spark/kafka tuning, troubleshooting
 
 **Tools:** _Spark, Kafka, Scala, Sbt, S3, HDFS, Jenkins, Qubole_
+
+---
 
 ### **Jan - Jul, 2019** - EPAM – Big Data Team 
 
@@ -138,3 +156,5 @@ The project re-thought how our customer allocates inventory to its stores. By ex
 - Cloud infrastructure
 
 **Tools:** _Airflow, GCP, Hive, Terraform, Python, Pyspark, Pandas_
+
+---
