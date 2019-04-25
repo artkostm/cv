@@ -148,7 +148,7 @@ Implementation of "discounts on the fly" with more than 1Tb data in 1 hour, spar
 
 **Project Roles**: Developer
 
-The project re-thought how our customer allocates inventory to its stores. By exploring algorithmic techniques, we developed demand forecasting algorithms, and applyed business rules to those forecasts to deliver improved store-level allocations that consider sales forecasts and regional effects + ecommerce allocation optimization.
+The project re-thought how our customer allocated inventory to its stores. By exploring algorithmic techniques, we developed demand forecasting algorithms, and applyed business rules to those forecasts to deliver improved store-level allocations that consider sales forecasts and regional effects + ecommerce allocation optimization.
 
 **Partisipation:**
 - Implementation of data pipelines
