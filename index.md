@@ -127,7 +127,7 @@ Implementation of web tools for the analysts, new case management platform
 
 An application to aggregate different events in Minsk and for visiting them together.
 
-**Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo_
+**Tools:** _Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka, Anko, Appolo, Http4s, Doobie, Kamon, Grafana, Prometheus_
 
 ---
 
