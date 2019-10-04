@@ -43,7 +43,7 @@ I pay special attention to self-education. Here are some of my personal projects
 
 ---
 
-### **Sep, 2014 – Feb, 2015** EPAM – Data preparation to retrain fraud models
+### **Sep, 2014 – Feb, 2015** – Data preparation to retrain fraud models
 
 **Project Roles**: Developer, Tester, Ops
 
@@ -58,7 +58,7 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
 
 ---
 
-### **Feb, 2015 - Jan, 2016** EPAM – Fraud team
+### **Feb, 2015 - Jan, 2016** – Fraud team
 
 **Project Roles**: Developer
 
@@ -91,7 +91,7 @@ Web framework for fast web app development.
 
 ---
 
-### **Jan, 2016 - Apr, 2017** - EPAM – Fraud tools team 
+### **Jan, 2016 - Apr, 2017** – Fraud tools team 
 
 **Project Roles**: Developer
 
@@ -106,7 +106,7 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 
 ---
 
-### **Apr, 2017 - Oct, 2018** - EPAM – Analyst tools team 
+### **Apr, 2017 - Oct, 2018** – Analyst tools team 
 
 **Project Roles**: Developer
 
@@ -131,7 +131,7 @@ An application to aggregate different events in Minsk and for visiting them toge
 
 ---
 
-### **Oct, 2018 - Jan, 2019** - EPAM – Big Data Team 
+### **Oct, 2018 - Jan, 2019** – Big Data Team 
 
 **Project Roles**: Developer
 
@@ -144,7 +144,7 @@ Implementation of "discounts on the fly" with more than 1Tb data in 1 hour, spar
 
 ---
 
-### **Jan - Jul, 2019** - EPAM – Big Data Team 
+### **Jan - Jul, 2019** – Big Data Team 
 
 **Project Roles**: Developer
 
@@ -156,5 +156,33 @@ The project re-thought how our customer allocated inventory to its stores. By ex
 - Cloud infrastructure
 
 **Tools:** _Airflow, GCP, Hive, Terraform, Python, Pyspark, Pandas_
+
+---
+
+### **Jul - Aug, 2019** – Big Data Team 
+
+**Project Roles**: Developer
+
+Customer wanted high-profile Data Since work, but ended up putting the team into an archetecture/consultancy kind of way, so the project was effectively paused for lack of environment and data.
+
+**Partisipation:**
+- Implementation of data pipelines
+- Data visualisation with Kibana dashboards
+
+**Tools:** _AWS, Glue, Elasticsearch, Kibana, Lambda, Java, Python_
+
+---
+
+### **Sep - Nov, 2019** – Big Data Team 
+
+**Project Roles**: Developer
+
+Developing Data Lake for a customer on Azure.
+
+**Partisipation:**
+- Implementation of data pipelines
+- BI Reporting
+
+**Tools:** _Azure, Databricks, Azure Data Factory, Spark, Log Analytics, Power BI, Scala, Java, SQL_
 
 ---
