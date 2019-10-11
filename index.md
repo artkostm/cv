@@ -11,7 +11,7 @@
 
 >English: Intermediate
 
-I'm a developer with more than 4 years of well-rounded experience in backend development, object-oriented design and microservices architecture. My skills include different fields of software engineering: applications, web, system development. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
+I'm a developer with more than 5 years of well-rounded experience in backend development, object-oriented design and microservices architecture. My skills include different fields of software engineering: applications, web, system development. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
 
 Skill highlights:
 - Performance and scalability optimization
@@ -163,6 +163,7 @@ The project re-thought how our customer allocated inventory to its stores. By ex
 
 **Project Roles**: Developer
 
+New product analysis and oredictions. 
 Customer wanted high-profile Data Since work, but ended up putting the team into an archetecture/consultancy kind of way, so the project was effectively paused for lack of environment and data.
 
 **Partisipation:**
