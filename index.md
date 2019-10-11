@@ -19,7 +19,7 @@ Skill highlights:
 - Fluent in Java, Scala, Kotlin, Javascript, C#, Phyton
 - Agile/Scrum methodology
 - API design
-- Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit, Kafka, Cassandra, Hadoop
+- Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit, Kafka, Cassandra, Hadoop, Spark
 
 Responsibilities:
 - Implement distributed systems, web apps, and data pipelines (etl, streaming);
