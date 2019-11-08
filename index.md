@@ -174,15 +174,16 @@ Customer wanted high-profile Data Since work, but ended up putting the team into
 
 ---
 
-### **Sep - Nov, 2019** – Big Data Team 
+### **Sep - Dec, 2019** – Big Data Team 
 
 **Project Roles**: Developer
 
 Developing Data Lake for a customer on Azure.
 
 **Partisipation:**
+- Project modularization
 - Implementation of data pipelines
-- BI Reporting
+- Data mart, BI Reporting
 
 **Tools:** _Azure, Databricks, Azure Data Factory, Spark, Log Analytics, Power BI, Scala, Java, SQL_
 
