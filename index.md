@@ -32,7 +32,9 @@ I pay special attention to self-education. Here are some of my personal projects
 - Scala on android (free monad + redux). Tools: Macroid, Gradle, FreeS, Diode
 - An android application with augmented reality support for the public transport schedule (Kotlin). Tools: Gradle, Anko, ObjectBox, Rx
 - Web framework for the fast web app development. Tools: Netty, Akka (Java), Camel, Gradle, Level DB
-- An application to aggregate different events in Minsk and for visiting them together (REST api +  android client app). Tools: Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka (Scala), Http4s, Doobie, Anko, Appolo, Gradle
+- An application to aggregate different events in Minsk and for visiting them together (REST api +  android client app). Tools: Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka (Scala), Http4s, Doobie, Anko, Appolo, Gradle.
+- YARN application framework. Tools: Hadoop, yarn clients, zio, cats, mu.
+- Oracle Fusion HCM rest client. Tools: zio, sttp.
 
 ## Education
 
