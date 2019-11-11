@@ -11,7 +11,7 @@
 
 >English: Intermediate
 
-I'm a developer with more than 5 years of well-rounded experience in backend development, object-oriented design and microservices architecture. My skills include different fields of software engineering: applications, web, system development. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
+I'm a developer with more than 5 years of well-rounded experience in backend development, object-oriented design, microservices architecture, data processing, and functional programming. My skills include different fields of software engineering: applications, web, system development. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
 
 Skill highlights:
 - Performance and scalability optimization
