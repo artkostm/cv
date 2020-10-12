@@ -11,7 +11,7 @@
 
 >English: Intermediate
 
-I'm a developer with more than 5 years of well-rounded experience in backend development, object-oriented design, microservices architecture, data processing, and functional programming. My skills include different fields of software engineering: applications, web, system development. Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
+I'm a developer with more than 5 years of well-rounded experience in backend development, object-oriented design, microservices architecture, data processing, and functional programming. My skills include different fields of software engineering: applications, web, system development. I'm a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
 
 Skill highlights:
 - Performance and scalability optimization
@@ -22,10 +22,10 @@ Skill highlights:
 - Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit, Kafka, Cassandra, Hadoop, Spark
 
 Responsibilities:
-- Implement distributed systems, web apps, and data pipelines (etl, streaming);
-- Investigate, troubleshoot and solve business issues;
-- Onboard and mentor new project members;
-- Code review, code refactoring, improve test coverage.
+- Implementing distributed systems, web apps, and data pipelines (etl, streaming);
+- Investigating, troubleshooting and solving business issues;
+- Onboarding and mentoring new project members;
+- Code review, code refactoring, improving test coverage.
 
 Outside of work, I have keen interest in functional programming. During my free time, I love to play outdoor games, read books and blogs, try new thechnologies and features.
 I pay special attention to self-education. Here are some of my personal projects:
@@ -67,11 +67,11 @@ Using the tools below, we developed MapReduce jobs and hive-scripts for data pre
 Implementation and support of sets of services to auto detect fraudulent transactions.
 
 **Partisipation:**
-- Performing integration with external and internal web services
-- Developing applications for data processing using hive and hadooop java APIs
-- Supporting code base and monitoring environment (for example, Splunk, AppDynamics)
-- Performing manual functional testing and dev unit testing
-- Participating in app design activities
+- Performing integration with external and internal web services;
+- Developing applications for data processing using hive and hadooop java APIs;
+- Supporting code base and monitoring environment (for example, Splunk, AppDynamics);
+- Performing functional testing and dev unit testing;
+- Participating in app design activities;
 
 **Tools:** _Spring, Gradle, Ms Sql, MongoDB, Hadoop, JQuery, Splunk, Rabbit, Kibana, ElasticSearch, Jenkins, Stash, Guthub_
 
@@ -79,7 +79,7 @@ Implementation and support of sets of services to auto detect fraudulent transac
 
 ### **2016-2017** - Self education
 
-Scala on android (free monad + redux on android), an android application with augmented reality support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
+Scala on android (free monad + redux on android), an android application with AR support for [the public transport schedule](http://www.minsktrans.by/city/#minsk/bus) (Kotlin).
 
 **Tools:** _Macroid, Gradle, Anko, FreeS, Diode, ObjectBox, Rx_
 
@@ -100,9 +100,9 @@ Web framework for fast web app development.
 Implementation of the auth service (REST) with the admin ui, disputes/debit memos autoimport
 
 **Partisipation:**
-- Writing services to manage user roles/permissions, 
-- Working on services to autoimport disputes from different banks
-- Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation
+- Writing services to manage user roles/permissions;
+- Working on services to autoimport disputes from different banks;
+- Participating in communication with customer and in web app designing (REST api, ui mockups), database development, unit/integration/functional tests implementation;
 
 **Tools:** _Spring, Mybatis, JQuery, Gradle, RetsAssured, JUnit, Mockito, Selenium, Ms Sql_
 
@@ -115,11 +115,11 @@ Implementation of the auth service (REST) with the admin ui, disputes/debit memo
 Implementation of web tools for the analysts, new case management platform
 
 **Partisipation:**
-- Implementation of web tools for the analysts
-- Working on the new Case Management platform
-- Moving from .Net (aspx/classic asp) to Java + Angular 4
-- Participating in onboarding of new members
-- Working directly with customer developers from India during the last few months
+- Implementation of web tools for the analysts;
+- Working on the new Case Management platform;
+- Moving from .Net (aspx/classic asp) to Java + Angular 4;
+- Participating in onboarding of new members;
+- Working directly with customer developers from India during the last few months;
 
 **Tools:** _Spring, Angular 4/5, Gradle, Mybatis, Rabbit, Mongo, Ms Sql, Karma, QueryDsl_
 
@@ -140,7 +140,7 @@ An application to aggregate different events in Minsk and for visiting them toge
 Implementation of "discounts on the fly" with more than 1Tb data in 1 hour, spark structured streaming.
 
 **Partisipation:**
-- Implementation, spark/kafka tuning, troubleshooting
+- Implementation, Spark and Kafka tuning, troubleshooting
 
 **Tools:** _Spark, Kafka, Scala, Sbt, S3, HDFS, Jenkins, Qubole_
 
@@ -153,9 +153,9 @@ Implementation of "discounts on the fly" with more than 1Tb data in 1 hour, spar
 The project re-thought how our customer allocated inventory to its stores. By exploring algorithmic techniques, we developed demand forecasting algorithms, and applyed business rules to those forecasts to deliver improved store-level allocations that consider sales forecasts and regional effects + ecommerce allocation optimization.
 
 **Partisipation:**
-- Implementation of data pipelines
-- Data quality checks
-- Cloud infrastructure
+- Implementation of data pipelines;
+- Data quality checks;
+- Cloud infrastructure;
 
 **Tools:** _Airflow, GCP, Hive, Terraform, Python, Pyspark, Pandas_
 
@@ -165,12 +165,12 @@ The project re-thought how our customer allocated inventory to its stores. By ex
 
 **Project Roles**: Developer
 
-New product analysis and oredictions. 
+New product analysis and predictions. 
 Customer wanted high-profile Data Since work, but ended up putting the team into an archetecture/consultancy kind of way, so the project was effectively paused for lack of environment and data.
 
 **Partisipation:**
-- Implementation of data pipelines
-- Data visualisation with Kibana dashboards
+- Implementation of data pipelines;
+- Data visualisation with Kibana dashboards;
 
 **Tools:** _AWS, Glue, Elasticsearch, Kibana, Lambda, Java, Python_
 
@@ -183,9 +183,9 @@ Customer wanted high-profile Data Since work, but ended up putting the team into
 Developing Data Lake for a customer on Azure.
 
 **Partisipation:**
-- Project modularization
-- Implementation of data pipelines
-- Data mart, BI Reporting
+- Project modularization;
+- Implementation of data pipelines;
+- Data mart, BI Reporting;
 
 **Tools:** _Azure, Databricks, Azure Data Factory, Spark, Log Analytics, Power BI, Scala, Java, SQL_
 
