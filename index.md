@@ -11,7 +11,7 @@
 
 >English: Intermediate
 
-I'm a developer with more than 5 years of well-rounded experience in backend development, object-oriented design, microservices architecture, data processing, and functional programming. My skills include different fields of software engineering: applications, web, system development. I'm a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
+I'm a developer with more than 6 years of well-rounded experience in backend development, object-oriented design, microservices architecture, data processing, and functional programming. My skills include different fields of software engineering: applications, web, system development. I'm a supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achive repeatable quality results. 
 
 Skill highlights:
 - Performance and scalability optimization
@@ -20,12 +20,13 @@ Skill highlights:
 - Agile/Scrum methodology
 - API design
 - Knowledge of SQL Server, MongoDB, PostgreDB, Rabbit, Kafka, Cassandra, Hadoop, Spark
+- Experience working with Azure (mostly), GCP, AWS
 
 Responsibilities:
 - Implementing distributed systems, web apps, and data pipelines (etl, streaming);
 - Investigating, troubleshooting and solving business issues;
 - Onboarding and mentoring new project members;
-- Code review, code refactoring, improving test coverage.
+- Code review, code refactoring, test coverage improvement.
 
 Outside of work, I have keen interest in functional programming. During my free time, I love to play outdoor games, read books and blogs, try new thechnologies and features.
 I pay special attention to self-education. Here are some of my personal projects:
@@ -35,6 +36,7 @@ I pay special attention to self-education. Here are some of my personal projects
 - An application to aggregate different events in Minsk and for visiting them together (REST api +  android client app). Tools: Finatra, Slick, Sangria, Postgres, Circe, Dialog Flow, Swagger, Sbt, Heroku, Akka (Scala), Http4s, Doobie, Anko, Appolo, Gradle.
 - YARN application framework. Tools: Hadoop, yarn clients, zio, cats, mu.
 - Oracle Fusion HCM rest client. Tools: zio, sttp.
+- A few PoCs related to data and web (see my [github profile](https://github.com/artkostm))
 
 ## Education
 
@@ -97,7 +99,7 @@ Web framework for fast web app development.
 
 **Project Roles**: Developer
 
-Implementation of the auth service (REST) with the admin ui, disputes/debit memos autoimport
+Implementation of an auth service (REST) with Admin UI, disputes/debit memos autoimport
 
 **Partisipation:**
 - Writing services to manage user roles/permissions;
@@ -185,8 +187,9 @@ Developing Data Lake for a customer on Azure.
 **Partisipation:**
 - Project modularization;
 - Implementation of data pipelines;
+- Data modeling
 - Data mart, BI Reporting;
 
-**Tools:** _Azure, Databricks, Azure Data Factory, Spark, Log Analytics, Power BI, Scala, Java, SQL_
+**Tools:** _Azure, Databricks, Azure Data Factory, Azure Batch, Event Hub, Kafka, Spark, Log Analytics, Power BI, Sharepoint, Scala, Java, SQL_
 
 ---
