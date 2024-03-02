@@ -1,7 +1,7 @@
 ##### [EN](https://artkostm.github.io/cv/)
 
 ## Artsiom Chuiko
->06.08.1994
+>06.08.1994, Belarus
 
 >Georgia, Tbilisi
 
