@@ -37,7 +37,7 @@ Led the development of a Data Lake on Azure, enhancing data pipelines, modeling,
 - Data modeling;
 - Data marts, BI Reporting;
 - Transition from classic Data Lake to Lake House;
-- Data Quality anf Goverment;
+- Data Quality anf Government;
 - Implementing RAG using the latest Gen AI tech stack;
 - Interviewing candidates and onboarding new members;
 
