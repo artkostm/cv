@@ -18,8 +18,8 @@ Skill Highlights:
 - Fluent in Scala, Java and Python. Have expirience working with js/ts, haskell, purescript, c# and many more.
 - Agile and Scrum methodologies.
 - Advanced API design and implementation.
-- Knowledge of SQL Server, MongoDB, PostgreDB, RabbitMQ, Kafka, Cassandra, Hadoop, and Spark.
-- Experienced in Azure cloud services, have some knowledge of GCP, and AWS.
+- Knowledge of SQL Server, MongoDB, PostgreDB, Kafka, Cassandra, Hadoop, and Spark.
+- Experienced in Azure cloud services.
 - Deep interest in data stack technologies, including data engineering, operations, and artificial intelligence
   
 ## Expirience
@@ -28,19 +28,20 @@ Skill Highlights:
 
 **Project Roles**: Developer, Tech Lead
 
-Developing Data Lake for a customer on Azure.
+Developing Data Platform for a customer on Azure.
 
 Led the development of a Data Lake on Azure, enhancing data pipelines, modeling, spearheaded the transition from classic Data Lake to Lake House architecture, focusing on data quality and governance.
 - Project modularization;
 - Implementation of data pipelines;
+- API integrations;
 - Data modeling;
-- Data mart, BI Reporting;
+- Data marts, BI Reporting;
 - Transition from classic Data Lake to Lake House;
 - Data Quality anf Goverment;
 - Implementing RAG using the latest Gen AI tech stack;
-- Interviewing candidates;
+- Interviewing candidates and onboarding new members;
 
-**Tools:** _Azure, Databricks, Azure Data Factory, Azure Batch, Event Hub, Kafka, Spark, Log Analytics, Power BI, Sharepoint, Scala, Java, SQL, Python_
+**Tools:** _Azure, Databricks, Azure Data Factory, Azure Batch, APIM, Event Hub, Kafka, NiFi, Spark, Log Analytics, Power BI, Sharepoint, Scala, Java, SQL, Python_
 
 ---
 
