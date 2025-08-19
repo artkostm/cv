@@ -3,13 +3,11 @@
 ## Artsiom Chuiko
 >06.08.1994, Belarus
 
->Georgia, Tbilisi
+>Nowhere
 
 >[https://github.com/artkostm](https://github.com/artkostm)
 
 >[artkostm@gmail.com](mailto:artkostm@gmail.com)
-
->English: Intermediate
 
 I am a developer with more than 8 years of well-rounded experience in backend development, object-oriented design, microservices architecture, data processing, and functional programming. My skills span various fields of software engineering, including application, web, and system development. As a supportive and enthusiastic team player, I am dedicated to streamlining processes and efficiently resolving project issues. I always strive to build and improve reusable tools and solutions to achieve repeatable, high-quality results
 
